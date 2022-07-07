@@ -1,0 +1,25 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.center-align {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    color: orange;
+}
+
+.link-buttom {
+    text-decoration: none;
+    background-image: linear-gradient(orange, gray);
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.banner-done {
+    background-image: url(images/donation9.jpg);
+
+}
